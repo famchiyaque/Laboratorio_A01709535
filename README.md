@@ -1,2 +1,2 @@
-# SemTecMay2025
-This is a test/practice repo for the activities/learning about git in my Semana Tec class 'El arte de la programación'
+# Laboratorio Individual
+Este es un repo de práctica para el lab individual donde vamos a crear un repo, crear un archivo localmente, y subir este archivo al repo remoto.
